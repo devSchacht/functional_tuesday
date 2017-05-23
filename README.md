@@ -11,7 +11,7 @@
 
 ### Выпуски
 
-* [Выпуск 1 - Введение](https://github.com/devSchacht/functional_tuesday#Выпуск-1-введение)
+* [Выпуск 1 - Введение](https://github.com/devSchacht/functional_tuesday#Выпуск-1---Введение)
 
 ### Выпуск 1 - Введение
 
