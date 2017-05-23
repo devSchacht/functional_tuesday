@@ -6,14 +6,14 @@
 
 Мы начинаем знакомство с функциональным программированием в JavaScript и в сегодняшнем выпуске поговорим об основных столпах функционального программирования: декларативности, иммутабельности, функциях высшего порядка - обо всем этом и даже больше. Коротко о содержании:
 
-* [Понятие функции](https://github.com/devSchacht/function_tuesday/blob/master/articles/chapter1.md#Понятие-функции)
-* [Чистая функция](https://github.com/devSchacht/function_tuesday/blob/master/articles/chapter1.md#Чистая-функция)
-* [Побочные эффекты](https://github.com/devSchacht/function_tuesday/blob/master/articles/chapter1.md#Побочные-эффекты)
-* [Состояние](https://github.com/devSchacht/function_tuesday/blob/master/articles/chapter1.md#Состояние)
-* [Неизменяемость](https://github.com/devSchacht/function_tuesday/blob/master/articles/chapter1.md#Неизменяемость)
-* [Декларативность](https://github.com/devSchacht/function_tuesday/blob/master/articles/chapter1.md#Декларативность)
-* [Функции высшего порядка](https://github.com/devSchacht/function_tuesday/blob/master/articles/chapter1.md#Функции-высшего-порядка)
-* [Функциональное программирование](https://github.com/devSchacht/function_tuesday/blob/master/articles/chapter1.md#Функциональное-программирование)
+* [Понятие функции](https://github.com/devSchacht/functional_tuesday/blob/master/articles/chapter1.md#Понятие-функции)
+* [Чистая функция](https://github.com/devSchacht/functional_tuesday/blob/master/articles/chapter1.md#Чистая-функция)
+* [Побочные эффекты](https://github.com/devSchacht/functional_tuesday/blob/master/articles/chapter1.md#Побочные-эффекты)
+* [Состояние](https://github.com/devSchacht/functional_tuesday/blob/master/articles/chapter1.md#Состояние)
+* [Неизменяемость](https://github.com/devSchacht/functional_tuesday/blob/master/articles/chapter1.md#Неизменяемость)
+* [Декларативность](https://github.com/devSchacht/functional_tuesday/blob/master/articles/chapter1.md#Декларативность)
+* [Функции высшего порядка](https://github.com/devSchacht/functional_tuesday/blob/master/articles/chapter1.md#Функции-высшего-порядка)
+* [Функциональное программирование](https://github.com/devSchacht/functional_tuesday/blob/master/articles/chapter1.md#Функциональное-программирование)
 
 ## Понятие функции
 
