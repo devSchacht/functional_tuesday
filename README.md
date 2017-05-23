@@ -1,6 +1,8 @@
 # *f* (вторник)
 ## Цикл статей о функциональном программировании в JavaScript
 
+![](https://github.com/devSchacht/functional_tuesday/blob/master/articles/img/logo2.png)
+
 ### Содержание репозитория
 
 * [Выпуски](https://github.com/devSchacht/functional_tuesday#Выпуски)
