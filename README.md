@@ -1,4 +1,4 @@
-# *f* (вторник)
+# Функциональный вторник
 ## Цикл статей о функциональном программировании в JavaScript
 
 ![](https://github.com/devSchacht/functional_tuesday/blob/master/articles/img/logo2.png)
@@ -27,4 +27,4 @@
 * Функциональное программирование
 
 #### Статья: [Medium](https://medium.com/devschacht/ftuesday-introduction-c2ed010bb75d), [GitHub](https://github.com/devSchacht/functional_tuesday/blob/master/articles/chapter1.md)
-#### [Перезентация]()
+#### [Перезентация](https://devschacht.github.io/functional_tuesday/presentations/chapters/chapter_1.html#/)

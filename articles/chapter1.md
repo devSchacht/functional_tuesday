@@ -338,7 +338,7 @@ atLunchToday(); // "Hi!"
 * [Functional JavaScript](https://github.com/jcouyang/functional-javascript/tree/master/en)
 * [Compare Functional Programming, Imperative Programming and Object Oriented Programming](http://www.journaldev.com/8693/functional-imperative-object-oriented-programming-comparison)
 
-[Эта статья в виде презентации]().
+[Эта статья в виде презентации](https://devschacht.github.io/functional_tuesday/presentations/chapters/chapter_1.html#/).
 
 Выпуск подготовлен совместно с [Вадимом Яловенко](https://github.com/yalovek).
 
